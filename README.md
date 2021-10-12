@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#
 - Had working experience on Javascript, CSS, HTML, VueJS,Bootstrap, Highcharts, Echarts.
 - Had Project Experience on ReactJS, C#, ASP.NET Core, MySQL
-- A Beginner on NodeJS, Java, C 
+- A Beginner on NodeJS, Java, C, Python 
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
